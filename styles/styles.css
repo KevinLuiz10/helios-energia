@@ -1,0 +1,122 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Estilo do cabeçalho */
+.header {
+    background-color: #ff9c00;
+    color: black;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+.container {
+    width: 95%;
+    display: flex; /* Ativa o Flexbox */
+    align-items: center; /* Alinha verticalmente */
+    justify-content: center; /* Garante espaçamento entre imagem e conteúdo */
+    padding: 10px;
+}
+
+.texto-menu-navegacao{
+    padding-left: 5%;
+}
+
+.icone{
+    width: 150px; /* Define a largura da imagem */
+    height: 150px; /* Define a altura da imagem */
+    border-radius: 50%; /* Torna a imagem redonda */
+    object-fit: cover; /* Garante que a imagem preencha o círculo */
+    border: 2px solid #333; /* (Opcional) Adiciona uma borda */
+}
+
+.header h1 {
+    margin-bottom: 0.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    padding-top: 0.5rem;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo do conteúdo principal */
+.main-content {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.main-content section {
+    margin-bottom: 2rem;
+}
+
+.main-content h2 {
+    color: #ff9c00;
+    margin-bottom: 1rem;
+}
+
+.topics{
+    font-weight: bold;
+}
+
+/* Estilo do rodapé */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+}
+
+.footer .social-link {
+    margin: 0 10px;
+    color: #fff;
+    font-size: 24px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer .social-link:hover {
+    color: #ff0000; /* YouTube vermelho */
+}
+.footer .social-link:nth-child(2):hover {
+    color: #e4405f; /* Instagram rosa */
+}
+
+.curriculo{
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer .curriculo:hover {
+    color: #ff9c00; /* YouTube vermelho */
+}
