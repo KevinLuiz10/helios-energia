@@ -14,4 +14,6 @@ Na raiz do projeto se encontram:
 
 ![ilustração dos arquivos do repositório](https://github.com/user-attachments/assets/e95ece71-4e4b-4703-90d9-38bb2f184504)
 
+O site pode ser acessado através do link <a href="[https://brasil.un.org/pt-br/sdgs](https://helios-energia.vercel.app/)" target="_blank">[Clique aqu para mais informações sobre o assunto.](https://helios-energia.vercel.app/)</a>
+
 Projeto desenvolvido por Kevin Luiz Botelho Lima
