@@ -3,7 +3,7 @@
 . Descrição do projeto:
 Trata-se de uma página web para uma empresa de energia solar chamada Helios Energia.
 
-. O projeto busca atender 2 Objetivos de Deesenvolvimento Sustentável (ODS - <a href="https://brasil.un.org/pt-br/sdgs">Clique aqu para mais informações sobre o assunto.</a>)
+. O projeto busca atender 2 Objetivos de Deesenvolvimento Sustentável (ODS - <a href="https://brasil.un.org/pt-br/sdgs" target="_blank">Clique aqu para mais informações sobre o assunto.</a>)
 Sendo estes: Acesso a Energia limpa e sustentável e também fomento do trabalho decente e crescimento econômico.
 
 . Estrutura do projeto:
